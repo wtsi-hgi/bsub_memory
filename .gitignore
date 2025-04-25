@@ -1,0 +1,21 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+# Ignore all files in the 'data' folder
+data/
+# Ignore macOS system files
+.DS_Store
+# Ignore environment files
+.env
+# Ignore log files
+*.log
+#Ignore json files
+*.json.gz
+# Ignore CSV files
+*.csv
+*.jsonl
+*.jsonl.gz
+*.jpeg
+*.pth
